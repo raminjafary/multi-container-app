@@ -2,7 +2,7 @@
   "dependencies": {
     "nodemon": "*",
     "redis": "2.8.0",
-    "cors": "2.8.4",
+    "cors": "2.8.5",
     "pg": "7.4.3",
     "express": "4.16.3",
     "body-parser": "*"
